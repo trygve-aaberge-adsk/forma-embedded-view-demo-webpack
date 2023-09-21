@@ -1,0 +1,17 @@
+{
+  "name": "forma-embedded-view-demo-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "webpack --mode=production"
+  },
+  "author": "Trygve Aaberge <trygve.aaberge@autodesk.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.2.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}

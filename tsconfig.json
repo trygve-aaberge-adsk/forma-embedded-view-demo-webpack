@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "module": "NodeNext",
+    "target": "ES2017",
+    "strict": true
+  }
+}
